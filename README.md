@@ -176,7 +176,7 @@ For more detailed information, check out these resources:
 
 ## Phishing Frameworks
 
-Beyond rolling your own phishing setup or using a pentest or red teaming fraework, like Cobalt Strike, there are numerous tools and frameworks dedicated to email phishing. While this wiki won't go into detail about each framework, a few resources for each are collected below:
+Beyond rolling your own phishing setup or using a pentest or red teaming framework, like Cobalt Strike, there are numerous tools and frameworks dedicated to email phishing. While this wiki won't go into detail about each framework, a few resources for each are collected below:
 
 ### Gophish
 * [Gophish Official Site](https://getgophish.com/)
